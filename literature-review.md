@@ -9,7 +9,7 @@ This list contains a collection of papers investigating this topic.
 - [Modern Assessment Methods](#Modern-Assessment-Methods)
 - [Applications of Artificial Intelligence in Education](#Applications-of-Artificial-Intelligence-in-Education)
 - [Applications of Large Language Models in Education](#Applications-of-Large-Language-Models-in-Education)
-- [Blockchain: Applications and Benefits](#Blockchain:-Applications-and-Benefits)
+- [Blockchain: Applications and Benefits](#Blockchain-Applications-and-Benefits)
 - [Blockchain in Education](#Blockchain-in-Education)
 
 
