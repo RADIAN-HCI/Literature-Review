@@ -5,11 +5,11 @@ This list contains a collection of papers investigating this topic.
 
 ## Table of Contents
 - [Coursework Platforms (CW)](#Coursework-Platforms-(CW))
-- [Traditional Assessment Methods](#trad-assessment)
-- [Modern Assessment Methods](#modern-assessment)
-- [Applications of Artificial Intelligence in Education](#ai-in-edu)
-- [Applications of Large Language Models in Education](#llm-in-edu)
-- [Blockchain: Applications and Benefits](#blockchain)
+- [Traditional Assessment Methods](#Traditional-Assessment-Methods)
+- [Modern Assessment Methods](#Modern-Assessment-Methods)
+- [Applications of Artificial Intelligence in Education](#Applications-of-Artificial-Intelligence-in-Education)
+- [Applications of Large Language Models in Education](#Applications-of-Large-Language-Models-in-Education)
+- [Blockchain: Applications and Benefits](#Blockchain:-Applications-and-Benefits)
 - [Blockchain in Education](#Blockchain-in-Education)
 
 
