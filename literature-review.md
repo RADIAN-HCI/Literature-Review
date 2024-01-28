@@ -131,6 +131,71 @@ This list contains a collection of papers investigating this topic.
   publisher={Frontiers Media SA}
 }
 
+- A Review of Using Machine Learning Approaches for Precision Education
+  + In recent years, in the field of education, there has been a clear progressive trend toward precision education. As a rapidly evolving AI technique, machine learning is viewed as an important means to realize it. In this paper, we systematically review 40 empirical studies regarding machine-learning-based precision education. The results showed that the majority of studies focused on the prediction of learning performance or dropouts, and were carried out in online or blended learning environments among university students majoring in computer science or STEM, whereas the data sources were divergent.
+  + @article{luan2021review,
+  title={A review of using machine learning approaches for precision education},
+  author={Luan, Hui and Tsai, Chin-Chung},
+  journal={Educational Technology \& Society},
+  volume={24},
+  number={1},
+  pages={250--266},
+  year={2021},
+  publisher={JSTOR}
+}
+
+- Application of Machine Learning algorithms for betterment in education system
+  +  The main aim of the paper is to describe the various ways in which the machine learning is used in educational institutes and how institutes can get prediction of students' performance and the important features that are needed to be considered while making prediction for different things. In addition to this the study also compares the prediction given by different machine learning algorithms.
+  + @inproceedings{halde2016application,
+  title={Application of Machine Learning algorithms for betterment in education system},
+  author={Halde, Radhika R},
+  booktitle={2016 International Conference on Automatic Control and Dynamic Optimization Techniques (ICACDOT)},
+  pages={1110--1114},
+  year={2016},
+  organization={IEEE}
+}
+
+- A Framework of an Intelligent Education System for Higher Education Based on Deep Learning
+  + Therefore, this paper constructs and analyzes a framework of intelligent education system for higher education based on the deep learning. Firstly, the functional block diagram of the system was built up. Next, a face detection algorithm was proposed based on the multi-task convolutional neural network, a face recognition algorithm was developed based on the improved deep convolutional neural network, and the knowledge learning status of students was tracked based on the memory augmented neural network.
+  + @article{zhang2021framework,
+  title={A framework of an intelligent education system for higher education based on deep learning},
+  author={Zhang, Xiuli and Cao, Zhongqiu},
+  journal={International Journal of Emerging Technologies in Learning (Online)},
+  volume={16},
+  number={7},
+  pages={233},
+  year={2021},
+  publisher={International Association of Online Engineering (IAOE)}
+}
+
+- Predictive analytics in education: a comparison of deep learning frameworks
+  + Recent advances in deep learning, particularly in the area of voice and image recognition and so-called complete knowledge games like chess, go, and StarCraft, have resulted in a flurry of research. Using two educational datasets, we explore the utility and applicability of deep learning for educational data mining and learning analytics. We compare the predictive accuracy of popular deep learning frameworks/libraries, including, Keras, Theano, Tensorflow, fast.ai, and Pytorch. Experimental results reveal that performance, as assessed by predictive accuracy, varies depending on the optimizer used. Further, findings from additional experiments by tuning network parameters yield similar results.
+  + @article{doleck2020predictive,
+  title={Predictive analytics in education: a comparison of deep learning frameworks},
+  author={Doleck, Tenzin and Lemay, David John and Basnet, Ram B and Bazelais, Paul},
+  journal={Education and Information Technologies},
+  volume={25},
+  pages={1951--1963},
+  year={2020},
+  publisher={Springer}
+}
+
+- Developing deep learning approaches and personal teaching efficacy within a preservice teacher education context
+  + Aims: This paper describes a study in which contextual modifications were implemented in an existing preservice teacher education programme to increase students' use of deep approaches to learning and reduce their reliance on the use of surface approaches, without the need for major redesign. Students' perceptions of their competence in performing the tasks of teaching (personal teaching efficacy) were also expected to improve in response to improvements in quality learning.
+  + @article{gordon2002developing,
+  title={Developing deep learning approaches and personal teaching efficacy within a preservice teacher education context},
+  author={Gordon, Christopher and Debus, Ray},
+  journal={British Journal of Educational Psychology},
+  volume={72},
+  number={4},
+  pages={483--511},
+  year={2002},
+  publisher={Wiley Online Library}
+}
+
+
+
+
 
 ## Applications of Large Language Models in Education
 
