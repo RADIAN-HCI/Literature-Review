@@ -5,6 +5,7 @@ This list contains a collection of papers investigating this topic.
 
 ## Table of Contents
 - [Coursework Platforms (CW)](#Coursework-Platforms-(CW))
+- [Continuous Learning in Educational Assessment](#Continuous-Learning-in-Educational-Assessment)
 - [Challenges of Traditional Assessment Methods](#Challenges-of-Traditional-Assessment-Methods)
 - [Modern Assessment Methods](#Modern-Assessment-Methods)
 - [Applications of Artificial Intelligence in Education](#Applications-of-Artificial-Intelligence-in-Education)
@@ -14,11 +15,36 @@ This list contains a collection of papers investigating this topic.
 
 
 ## Coursework Platforms (CW)
-- [An overview of chatbot technology](https://link.springer.com/chapter/10.1007/978-3-030-49186-4_31?ref=blog.min.io)
+
+## Continuous Learning in Educational Assessment
+
 
 ## Challenges of Traditional Assessment Methods
+- [Facing Challenges of a New Era of Educational Assessment](https://www.tandfonline.com/doi/abs/10.1207/s15324818ame0404_1)
+- [The challenges of assessment in a new learning culture](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203942185-3/challenges-assessment-new-learning-culture-olga-dysthe)
+- [The challenge of assessment](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203134511-9/challenge-assessment-viviene-cree)
+- [Assessment innovation and student experience: a new assessment challenge and call for a multi-perspective approach to assessment research](https://www.tandfonline.com/doi/abs/10.1080/02602938.2014.890170)
+- [The challenge of changing to an assessment for learning culture](https://keele-repository.worktribe.com/output/407082)
+- [Rethinking assessment in a digital age: Opportunities, challenges and risks](https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1002/berj.3215)
+- [Strategies and challenges to changing the focus of assessment and instruction in science classrooms](https://www.tandfonline.com/doi/abs/10.1207/s15326977ea0401_2)
+- [Educational assessment: Expanded expectations and challenges](https://journals.sagepub.com/doi/abs/10.3102/01623737015001001)
+- [Outcomes assessment in higher education: Challenges and future research in the context of voluntary system of accountability](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-3992.2011.00206.x)
+- [Advantages and challenges of using e-assessment](https://fac.ksu.edu.sa/sites/default/files/advantages_and_challenges_of_using_e-assessment.pdf)
+- [Assessing student learning outcomes in higher education: Challenges and international perspectives](https://www.tandfonline.com/doi/full/10.1080/02602938.2016.1169501)
   
 ## Modern Assessment Methods
+- [Assessment and innovation in education](https://www.oecd-ilibrary.org/education/assessment-and-innovation-in-education_222814543073)
+- [Redefining assessment? The first ten years of assessment in education](https://www.tandfonline.com/doi/abs/10.1080/0969594042000208976)
+- [Changing assessment—Towards a new assessment paradigm using ICT](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejed.12018)
+- [The impact of innovative assessment on student learning](https://www.tandfonline.com/doi/abs/10.1080/1355800950320402)
+- [A new assessment era: different needs, new challenges](https://www.sciencedirect.com/science/article/pii/S0959475200000220)
+- [A new era for educational assessment](https://epaa.asu.edu/index.php/epaa/article/view/1983)
+- [Reshaping assessment in education: Some criteria in search of practice](https://www.tandfonline.com/doi/pdf/10.1080/0022027930250302)
+- [Assessing for learning: Some dimensions underlying new approaches to educational assessment](https://www.researchgate.net/profile/John-Biggs-3/publication/232516025_Assessing_for_learning_Some_dimensions_underlying_new_approaches_to_educational_assessment/links/5440e4d70cf28b35e3869e05/Assessing-for-learning-Some-dimensions-underlying-new-approaches-to-educational-assessment)
+- [Knowing what students know: The science and design of educational assessment](https://books.google.com/books?hl=en&lr=&id=xMlxAgAAQBAJ&oi=fnd&pg=PT15&dq=(innovative+OR+novel+OR+new+OR+modern)+AND+assessment+AND+education&ots=HOZojjY2Vq&sig=Y3phlh2bh4dFqbKWM5DYNLpcIWM)
+- [Educational assessment in Norway](https://www.tandfonline.com/doi/abs/10.1080/0969594X.2013.830079)
+- [The effects of student question-generation with online prompts on learning](https://www.jstor.org/stable/pdf/jeductechsoci.17.3.267.pdf)
+- 
 
 ## Applications of Artificial Intelligence in Education
 
