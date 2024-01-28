@@ -193,7 +193,32 @@ This list contains a collection of papers investigating this topic.
   publisher={Wiley Online Library}
 }
 
+- A Deep Learning-Based Course Recommender System for Sustainable Development in Education
+  + Despite the development and contributions of many recommender systems based on CF, diverse deep learning models for personalized recommendation are being studied because of problems such as sparsity and scalability. Therefore, to solve traditional recommendation problems, this study proposes a novel deep learning-based course recommender system (DECOR), which elaborately captures high-level user behaviors and course attribute features.
+  + @article{li2021deep,
+  title={A deep learning-based course recommender system for sustainable development in education},
+  author={Li, Qinglong and Kim, Jaekyeong},
+  journal={Applied Sciences},
+  volume={11},
+  number={19},
+  pages={8993},
+  year={2021},
+  publisher={MDPI}
+}
 
+
+- Deep learning goes to school: toward a relational understanding of AI in education
+  + In this article, we question the applicability of these methods to education. In particular, we consider a case of recent attempts from data scientists to add AI elements to a handful of online learning environments, such as Khan Academy and the ASSISTments intelligent tutoring system.
+  + @article{perrotta2020deep,
+  title={Deep learning goes to school: Toward a relational understanding of AI in education},
+  author={Perrotta, Carlo and Selwyn, Neil},
+  journal={Learning, Media and Technology},
+  volume={45},
+  number={3},
+  pages={251--269},
+  year={2020},
+  publisher={Taylor \& Francis}
+}
 
 
 
