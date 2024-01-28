@@ -5,7 +5,7 @@ This list contains a collection of papers investigating this topic.
 
 ## Table of Contents
 - [Coursework Platforms (CW)](#Coursework-Platforms-(CW))
-- [Continuous Learning in Educational Assessment](#Continuous-Learning-in-Educational-Assessment)
+- [Continuous Assessment](#Continuous-Assessment)
 - [Challenges of Traditional Assessment Methods](#Challenges-of-Traditional-Assessment-Methods)
 - [Modern Assessment Methods](#Modern-Assessment-Methods)
 - [Applications of Artificial Intelligence in Education](#Applications-of-Artificial-Intelligence-in-Education)
@@ -16,7 +16,7 @@ This list contains a collection of papers investigating this topic.
 
 ## Coursework Platforms (CW)
 
-## Continuous Learning in Educational Assessment
+## Continuous Assessment
 
 
 ## Challenges of Traditional Assessment Methods
@@ -44,7 +44,6 @@ This list contains a collection of papers investigating this topic.
 - [Knowing what students know: The science and design of educational assessment](https://books.google.com/books?hl=en&lr=&id=xMlxAgAAQBAJ&oi=fnd&pg=PT15&dq=(innovative+OR+novel+OR+new+OR+modern)+AND+assessment+AND+education&ots=HOZojjY2Vq&sig=Y3phlh2bh4dFqbKWM5DYNLpcIWM)
 - [Educational assessment in Norway](https://www.tandfonline.com/doi/abs/10.1080/0969594X.2013.830079)
 - [The effects of student question-generation with online prompts on learning](https://www.jstor.org/stable/pdf/jeductechsoci.17.3.267.pdf)
-- 
 
 ## Applications of Artificial Intelligence in Education
 
