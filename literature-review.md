@@ -82,6 +82,56 @@ This list contains a collection of papers investigating this topic.
   publisher={IGI Global}
 }
 
+- Vision, challenges, roles and research issues of Artificial Intelligence in Education
+  + In this paper, we present the definition and roles of AIED studies from the perspective of educational needs. We propose a framework to show the considerations of implementing AIED in different learning and teaching settings.
+  + @misc{hwang2020vision,
+  title={Vision, challenges, roles and research issues of Artificial Intelligence in Education},
+  author={Hwang, Gwo-Jen and Xie, Haoran and Wah, Benjamin W and Ga{\v{s}}evi{\'c}, Dragan},
+  journal={Computers and Education: Artificial Intelligence},
+  volume={1},
+  pages={100001},
+  year={2020},
+  publisher={Elsevier}
+}
+
+- Explainable Artificial Intelligence in education
+  +  Accordingly, we first present a framework, referred to as XAI-ED, that considers six key aspects in relation to explainability for studying, designing and developing educational AI tools. These key aspects focus on the stakeholders, benefits, approaches for presenting explanations, widely used classes of AI models, human-centred designs of the AI interfaces and potential pitfalls of providing explanations within education. We then present four comprehensive case studies that illustrate the application of XAI-ED in four different educational AI tools. The paper concludes by discussing opportunities, challenges and future research needs for the effective incorporation of XAI in education.
+  +  @article{khosravi2022explainable,
+  title={Explainable artificial intelligence in education},
+  author={Khosravi, Hassan and Shum, Simon Buckingham and Chen, Guanliang and Conati, Cristina and Tsai, Yi-Shan and Kay, Judy and Knight, Simon and Martinez-Maldonado, Roberto and Sadiq, Shazia and Ga{\v{s}}evi{\'c}, Dragan},
+  journal={Computers and Education: Artificial Intelligence},
+  volume={3},
+  pages={100074},
+  year={2022},
+  publisher={Elsevier}
+}
+
+- Artificial intelligence in education: Addressing ethical challenges in K-12 settings
+  + The ethical challenges of AI in education must be identified and introduced to teachers and students. To address these issues, this paper (1) briefly defines AI through the concepts of machine learning and algorithms; (2) introduces applications of AI in educational settings and benefits of AI systems to support students’ learning processes; (3) describes ethical challenges and dilemmas of using AI in education; and (4) addresses the teaching and understanding of AI by providing recommended instructional resources from two providers—i.e., the Massachusetts Institute of Technology’s (MIT) Media Lab and Code.org.
+  + @article{akgun2022artificial,
+  title={Artificial intelligence in education: Addressing ethical challenges in K-12 settings},
+  author={Akgun, Selin and Greenhow, Christine},
+  journal={AI and Ethics},
+  volume={2},
+  number={3},
+  pages={431--440},
+  year={2022},
+  publisher={Springer}
+}
+
+- Challenges and Future Directions of Big Data and Artificial Intelligence in Education
+  + We discuss the new challenges and directions facing the use of big data and artificial intelligence (AI) in education research, policy-making, and industry. In recent years, applications of big data and AI in education have made significant headways.
+  + @article{luan2020challenges,
+  title={Challenges and future directions of big data and artificial intelligence in education},
+  author={Luan, Hui and Geczy, Peter and Lai, Hollis and Gobert, Janice and Yang, Stephen JH and Ogata, Hiroaki and Baltes, Jacky and Guerra, Rodrigo and Li, Ping and Tsai, Chin-Chung},
+  journal={Frontiers in psychology},
+  volume={11},
+  pages={580820},
+  year={2020},
+  publisher={Frontiers Media SA}
+}
+
+
 ## Applications of Large Language Models in Education
 
 - Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education
