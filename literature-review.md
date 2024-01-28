@@ -22,8 +22,67 @@ This list contains a collection of papers investigating this topic.
 
 ## Applications of Artificial Intelligence in Education
 
-## Applications of Large Language Models in Education
+- Artificial Intelligence in Education: A Review
+  + The purpose of this study was to assess the impact of Artificial Intelligence (AI) on education. Premised on a narrative and framework for assessing AI identified from a preliminary analysis, the scope of the study was limited to the application and effects of AI in administration, instruction, and learning. A qualitative research approach, leveraging the use of literature review as a research design and approach was used and effectively facilitated the realization of the study purpose.
+  + @article{chen2020artificial,
+  title={Artificial intelligence in education: A review},
+  author={Chen, Lijia and Chen, Pingping and Lin, Zhijian},
+  journal={Ieee Access},
+  volume={8},
+  pages={75264--75278},
+  year={2020},
+  publisher={Ieee}
+}
 
+- Evolution and Revolution in Artificial Intelligence in Education
+  + The field of Artificial Intelligence in Education (AIED) has undergone significant developments over the last twenty-five years. As we reflect on our past and shape our future, we ask two main questions: What are our major strengths? And, what new opportunities lay on the horizon? We analyse 47 papers from three years in the history of the Journal of AIED (1994, 2004, and 2014) to identify the foci and typical scenarios that occupy the field of AIED. We use those results to suggest two parallel strands of research that need to take place in order to impact education in the next 25 years: One is an evolutionary process, focusing on current classroom practices, collaborating with teachers, and diversifying technologies and domains. The other is a revolutionary process where we argue for embedding our technologies within students’ everyday lives, supporting their cultures, practices, goals, and communities.
+  + @article{roll2016evolution,
+  title={Evolution and revolution in artificial intelligence in education},
+  author={Roll, Ido and Wylie, Ruth},
+  journal={International Journal of Artificial Intelligence in Education},
+  volume={26},
+  pages={582--599},
+  year={2016},
+  publisher={Springer}
+}
+
+- Artificial intelligence in education: The three paradigms
+  + In its short history, AIEd has been undergoing several paradigmatic shifts, which are characterized into three paradigms in this position paper: AI-directed, learner-as-recipient, AI-supported, learner-as-collaborator, and AI-empowered, learner-as-leader. In three paradigms, AI techniques are used to address educational and learning issues in varied ways. AI is used to represent knowledge models and direct cognitive learning while learners are recipients of AI service in Paradigm One; AI is used to support learning while learners work as collaborators with AI in Paradigm Two; AI is used to empower learning while learners take agency to learn in Paradigm Three.
+  + @article{ouyang2021artificial,
+  title={Artificial intelligence in education: The three paradigms},
+  author={Ouyang, Fan and Jiao, Pengcheng},
+  journal={Computers and Education: Artificial Intelligence},
+  volume={2},
+  pages={100020},
+  year={2021},
+  publisher={Elsevier}
+}
+
+- Application and theory gaps during the rise of Artificial Intelligence in Education
+  + Based on 4,519 publications from 2000 to 2019, we attempt to fill this gap and identify trends and topics related to AI applications in education (AIEd) using topicbased bibliometrics.
+  + @article{chen2022two,
+  title={Two decades of artificial intelligence in education},
+  author={Chen, Xieling and Zou, Di and Xie, Haoran and Cheng, Gary and Liu, Caixia},
+  journal={Educational Technology \& Society},
+  volume={25},
+  number={1},
+  pages={28--47},
+  year={2022},
+  publisher={JSTOR}
+}
+
+- Artificial Intelligence in Education: Current Insights and Future Perspectives
+  + Though only a dream a while ago, artificial intelligence (AI) has become a reality, being now part of our routines and penetrating every aspect of our lives, including education. It is still a field in its infancy, but as time progresses, we will witness how AI evolves and explore its untapped potential. Against this background, this chapter examines current insights and future perspectives of AI in various contexts, such as natural language processing (NLP), machine learning, and deep learning. For this purpose, social network analysis (SNA) is used as a guide for the interpretation of the key concepts in AI research from an educational perspective. The research identified three broad themes: (1) adaptive learning, personalization and learning styles, (2) expert systems and intelligent tutoring systems, and (3) AI as a future component of educational processes.
+  + @incollection{goksel2019artificial,
+  title={Artificial intelligence in education: Current insights and future perspectives},
+  author={Goksel, Nil and Bozkurt, Aras},
+  booktitle={Handbook of Research on Learning in the Age of Transhumanism},
+  pages={224--236},
+  year={2019},
+  publisher={IGI Global}
+}
+
+## Applications of Large Language Models in Education
 
 - Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education
   + Utilizing GPT-4 in neuro-ophthalmic medical education 
@@ -171,6 +230,60 @@ This list contains a collection of papers investigating this topic.
   pages={84--89},
   year={2023}
 }
+
+- Large Language Models in Education: Vision and Opportunities
+  + This article aims to investigate and summarize the application of LLMs in smart education. It first introduces the research background and motivation of LLMs and explains the essence of LLMs. It then discusses the relationship between digital education and EduLLMs and summarizes the current research status of educational large models.
+  + @inproceedings{gan2023large,
+  title={Large language models in education: Vision and opportunities},
+  author={Gan, Wensheng and Qi, Zhenlian and Wu, Jiayang and Lin, Jerry Chun-Wei},
+  booktitle={2023 IEEE International Conference on Big Data (BigData)},
+  pages={4776--4785},
+  year={2023},
+  organization={IEEE}
+}
+
+- ChatGPT and large language models in academia: opportunities and challenges
+  +  In this editorial, we discuss this technology from the academic’s perspective with regard to its limitations and utility for academic writing, education, and programming. We end with our stance with regard to using LLMs and chatbots in academia, which is summarized as (1) we must find ways to effectively use them, (2) their use does not constitute plagiarism (although they may produce plagiarized text), (3) we must quantify their bias, (4) users must be cautious of their poor accuracy, and (5) the future is bright for their application to research and as an academic tool.
+  +  @article{meyer2023chatgpt,
+  title={ChatGPT and large language models in academia: opportunities and challenges},
+  author={Meyer, Jesse G and Urbanowicz, Ryan J and Martin, Patrick CN and O’Connor, Karen and Li, Ruowang and Peng, Pei-Chen and Bright, Tiffani J and Tatonetti, Nicholas and Won, Kyoung Jae and Gonzalez-Hernandez, Graciela and others},
+  journal={BioData Mining},
+  volume={16},
+  number={1},
+  pages={20},
+  year={2023},
+  publisher={Springer}
+}
+
+- Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?
+  + This paper aims to determine the most suitable large language model (LLM) among ChatGPT, BingChat, and Bard for Vietnamese educators and students. The results show that ChatGPT and BingChat exhibit similar performances and outperform Bard in mathematics.
+  + @article{dao2023large,
+  title={Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?},
+  author={Dao, Xuan-Quy},
+  journal={Bing Chat, or Bard},
+  year={2023}
+}
+
+- LARGE LANGUAGE MODEL-BASED ARTIFICIAL INTELLIGENCE IN THE LANGUAGE CLASSROOM: PRACTICAL IDEAS FOR TEACHING.
+  + The aim of this paper is to provide the reader with examples of how LLMs can be utilized for materials development, classroom activities, and providing feedback. After giving specific examples and explanations, the paper will conclude with a discussion of how this technology can provide teachers with new innovative ways to streamline the teaching process to focus on learner needs.
+  + @article{bonner2023large,
+  title={LARGE LANGUAGE MODEL-BASED ARTIFICIAL INTELLIGENCE IN THE LANGUAGE CLASSROOM: PRACTICAL IDEAS FOR TEACHING.},
+  author={Bonner, Euan and Lege, Ryan and Frazier, Erin},
+  journal={Teaching English with Technology},
+  volume={23},
+  number={1},
+  year={2023}
+}
+
+- A large language model-assisted education tool to provide feedback on open-ended responses
+  + Here, we present a tool that uses large language models (LLMs), guided by instructor-defined criteria, to automate responses to open-ended questions. Our tool delivers rapid personalized feedback, enabling students to quickly test their knowledge and identify areas for improvement.
+  + @article{matelsky2023large,
+  title={A large language model-assisted education tool to provide feedback on open-ended responses},
+  author={Matelsky, Jordan K and Parodi, Felipe and Liu, Tony and Lange, Richard D and Kording, Konrad P},
+  journal={arXiv preprint arXiv:2308.02439},
+  year={2023}
+}
+
 
 ## Blockchain: Applications and Benefits
 
