@@ -118,18 +118,7 @@ This list contains a collection of papers investigating this topic.
   pages={100020},
   year={2021},
   publisher={Elsevier}
-}
 
-- Explainable Artificial Intelligence in education
-  +  Accordingly, we first present a framework, referred to as XAI-ED, that considers six key aspects in relation to explainability for studying, designing and developing educational AI tools. These key aspects focus on the stakeholders, benefits, approaches for presenting explanations, widely used classes of AI models, human-centred designs of the AI interfaces and potential pitfalls of providing explanations within education. We then present four comprehensive case studies that illustrate the application of XAI-ED in four different educational AI tools. The paper concludes by discussing opportunities, challenges and future research needs for the effective incorporation of XAI in education.
-  +  @article{khosravi2022explainable,
-  title={Explainable artificial intelligence in education},
-  author={Khosravi, Hassan and Shum, Simon Buckingham and Chen, Guanliang and Conati, Cristina and Tsai, Yi-Shan and Kay, Judy and Knight, Simon and Martinez-Maldonado, Roberto and Sadiq, Shazia and Ga{\v{s}}evi{\'c}, Dragan},
-  journal={Computers and Education: Artificial Intelligence},
-  volume={3},
-  pages={100074},
-  year={2022},
-  publisher={Elsevier}
 }
 
 - Artificial intelligence in education: Addressing ethical challenges in K-12 settings
@@ -143,6 +132,18 @@ This list contains a collection of papers investigating this topic.
   pages={431--440},
   year={2022},
   publisher={Springer}
+}
+
+- Explainable Artificial Intelligence in education
+  +  Accordingly, we first present a framework, referred to as XAI-ED, that considers six key aspects in relation to explainability for studying, designing and developing educational AI tools. These key aspects focus on the stakeholders, benefits, approaches for presenting explanations, widely used classes of AI models, human-centred designs of the AI interfaces and potential pitfalls of providing explanations within education. We then present four comprehensive case studies that illustrate the application of XAI-ED in four different educational AI tools. The paper concludes by discussing opportunities, challenges and future research needs for the effective incorporation of XAI in education.
+  +  @article{khosravi2022explainable,
+  title={Explainable artificial intelligence in education},
+  author={Khosravi, Hassan and Shum, Simon Buckingham and Chen, Guanliang and Conati, Cristina and Tsai, Yi-Shan and Kay, Judy and Knight, Simon and Martinez-Maldonado, Roberto and Sadiq, Shazia and Ga{\v{s}}evi{\'c}, Dragan},
+  journal={Computers and Education: Artificial Intelligence},
+  volume={3},
+  pages={100074},
+  year={2022},
+  publisher={Elsevier}
 }
 
 - Application of Machine Learning algorithms for betterment in education system
