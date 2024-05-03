@@ -170,17 +170,6 @@ This list contains a collection of papers investigating this topic.
   publisher={International Association of Online Engineering (IAOE)}
 }
 
-- Predictive analytics in education: a comparison of deep learning frameworks
-  + Recent advances in deep learning, particularly in the area of voice and image recognition and so-called complete knowledge games like chess, go, and StarCraft, have resulted in a flurry of research. Using two educational datasets, we explore the utility and applicability of deep learning for educational data mining and learning analytics. We compare the predictive accuracy of popular deep learning frameworks/libraries, including, Keras, Theano, Tensorflow, fast.ai, and Pytorch. Experimental results reveal that performance, as assessed by predictive accuracy, varies depending on the optimizer used. Further, findings from additional experiments by tuning network parameters yield similar results.
-  + @article{doleck2020predictive,
-  title={Predictive analytics in education: a comparison of deep learning frameworks},
-  author={Doleck, Tenzin and Lemay, David John and Basnet, Ram B and Bazelais, Paul},
-  journal={Education and Information Technologies},
-  volume={25},
-  pages={1951--1963},
-  year={2020},
-  publisher={Springer}
-}
 
 - Developing deep learning approaches and personal teaching efficacy within a preservice teacher education context
   + Aims: This paper describes a study in which contextual modifications were implemented in an existing preservice teacher education programme to increase students' use of deep approaches to learning and reduce their reliance on the use of surface approaches, without the need for major redesign. Students' perceptions of their competence in performing the tasks of teaching (personal teaching efficacy) were also expected to improve in response to improvements in quality learning.
@@ -208,20 +197,17 @@ This list contains a collection of papers investigating this topic.
   publisher={MDPI}
 }
 
-
-- Deep learning goes to school: toward a relational understanding of AI in education
-  + In this article, we question the applicability of these methods to education. In particular, we consider a case of recent attempts from data scientists to add AI elements to a handful of online learning environments, such as Khan Academy and the ASSISTments intelligent tutoring system.
-  + @article{perrotta2020deep,
-  title={Deep learning goes to school: Toward a relational understanding of AI in education},
-  author={Perrotta, Carlo and Selwyn, Neil},
-  journal={Learning, Media and Technology},
-  volume={45},
-  number={3},
-  pages={251--269},
+- Predictive analytics in education: a comparison of deep learning frameworks
+  + Recent advances in deep learning, particularly in the area of voice and image recognition and so-called complete knowledge games like chess, go, and StarCraft, have resulted in a flurry of research. Using two educational datasets, we explore the utility and applicability of deep learning for educational data mining and learning analytics. We compare the predictive accuracy of popular deep learning frameworks/libraries, including, Keras, Theano, Tensorflow, fast.ai, and Pytorch. Experimental results reveal that performance, as assessed by predictive accuracy, varies depending on the optimizer used. Further, findings from additional experiments by tuning network parameters yield similar results.
+  + @article{doleck2020predictive,
+  title={Predictive analytics in education: a comparison of deep learning frameworks},
+  author={Doleck, Tenzin and Lemay, David John and Basnet, Ram B and Bazelais, Paul},
+  journal={Education and Information Technologies},
+  volume={25},
+  pages={1951--1963},
   year={2020},
-  publisher={Taylor \& Francis}
+  publisher={Springer}
 }
-
 
 
 ## Applications of Large Language Models in Education
