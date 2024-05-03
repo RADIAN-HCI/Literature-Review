@@ -84,29 +84,6 @@ This list contains a collection of papers investigating this topic.
   publisher={Springer}
 }
 
-- Artificial intelligence in education: The three paradigms
-  + In its short history, AIEd has been undergoing several paradigmatic shifts, which are characterized into three paradigms in this position paper: AI-directed, learner-as-recipient, AI-supported, learner-as-collaborator, and AI-empowered, learner-as-leader. In three paradigms, AI techniques are used to address educational and learning issues in varied ways. AI is used to represent knowledge models and direct cognitive learning while learners are recipients of AI service in Paradigm One; AI is used to support learning while learners work as collaborators with AI in Paradigm Two; AI is used to empower learning while learners take agency to learn in Paradigm Three.
-  + @article{ouyang2021artificial,
-  title={Artificial intelligence in education: The three paradigms},
-  author={Ouyang, Fan and Jiao, Pengcheng},
-  journal={Computers and Education: Artificial Intelligence},
-  volume={2},
-  pages={100020},
-  year={2021},
-  publisher={Elsevier}
-}
-
-- Explainable Artificial Intelligence in education
-  +  Accordingly, we first present a framework, referred to as XAI-ED, that considers six key aspects in relation to explainability for studying, designing and developing educational AI tools. These key aspects focus on the stakeholders, benefits, approaches for presenting explanations, widely used classes of AI models, human-centred designs of the AI interfaces and potential pitfalls of providing explanations within education. We then present four comprehensive case studies that illustrate the application of XAI-ED in four different educational AI tools. The paper concludes by discussing opportunities, challenges and future research needs for the effective incorporation of XAI in education.
-  +  @article{khosravi2022explainable,
-  title={Explainable artificial intelligence in education},
-  author={Khosravi, Hassan and Shum, Simon Buckingham and Chen, Guanliang and Conati, Cristina and Tsai, Yi-Shan and Kay, Judy and Knight, Simon and Martinez-Maldonado, Roberto and Sadiq, Shazia and Ga{\v{s}}evi{\'c}, Dragan},
-  journal={Computers and Education: Artificial Intelligence},
-  volume={3},
-  pages={100074},
-  year={2022},
-  publisher={Elsevier}
-}
 
 - Artificial Intelligence in Education: Current Insights and Future Perspectives
   + Though only a dream a while ago, artificial intelligence (AI) has become a reality, being now part of our routines and penetrating every aspect of our lives, including education. It is still a field in its infancy, but as time progresses, we will witness how AI evolves and explore its untapped potential. Against this background, this chapter examines current insights and future perspectives of AI in various contexts, such as natural language processing (NLP), machine learning, and deep learning. For this purpose, social network analysis (SNA) is used as a guide for the interpretation of the key concepts in AI research from an educational perspective. The research identified three broad themes: (1) adaptive learning, personalization and learning styles, (2) expert systems and intelligent tutoring systems, and (3) AI as a future component of educational processes.
@@ -128,6 +105,30 @@ This list contains a collection of papers investigating this topic.
   volume={1},
   pages={100001},
   year={2020},
+  publisher={Elsevier}
+}
+
+- Artificial intelligence in education: The three paradigms
+  + In its short history, AIEd has been undergoing several paradigmatic shifts, which are characterized into three paradigms in this position paper: AI-directed, learner-as-recipient, AI-supported, learner-as-collaborator, and AI-empowered, learner-as-leader. In three paradigms, AI techniques are used to address educational and learning issues in varied ways. AI is used to represent knowledge models and direct cognitive learning while learners are recipients of AI service in Paradigm One; AI is used to support learning while learners work as collaborators with AI in Paradigm Two; AI is used to empower learning while learners take agency to learn in Paradigm Three.
+  + @article{ouyang2021artificial,
+  title={Artificial intelligence in education: The three paradigms},
+  author={Ouyang, Fan and Jiao, Pengcheng},
+  journal={Computers and Education: Artificial Intelligence},
+  volume={2},
+  pages={100020},
+  year={2021},
+  publisher={Elsevier}
+}
+
+- Explainable Artificial Intelligence in education
+  +  Accordingly, we first present a framework, referred to as XAI-ED, that considers six key aspects in relation to explainability for studying, designing and developing educational AI tools. These key aspects focus on the stakeholders, benefits, approaches for presenting explanations, widely used classes of AI models, human-centred designs of the AI interfaces and potential pitfalls of providing explanations within education. We then present four comprehensive case studies that illustrate the application of XAI-ED in four different educational AI tools. The paper concludes by discussing opportunities, challenges and future research needs for the effective incorporation of XAI in education.
+  +  @article{khosravi2022explainable,
+  title={Explainable artificial intelligence in education},
+  author={Khosravi, Hassan and Shum, Simon Buckingham and Chen, Guanliang and Conati, Cristina and Tsai, Yi-Shan and Kay, Judy and Knight, Simon and Martinez-Maldonado, Roberto and Sadiq, Shazia and Ga{\v{s}}evi{\'c}, Dragan},
+  journal={Computers and Education: Artificial Intelligence},
+  volume={3},
+  pages={100074},
+  year={2022},
   publisher={Elsevier}
 }
 
