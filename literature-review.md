@@ -245,32 +245,13 @@ This list contains a collection of papers investigating this topic.
   publisher={Springer}
 }
 
-- Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education
-  + Utilizing GPT-4 in neuro-ophthalmic medical education 
-  + @article{waisberg2023large,
-  title={Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education},
-  author={Waisberg, Ethan and Ong, Joshua and Masalkhi, Mouayad and Lee, Andrew G},
-  journal={Eye},
-  pages={1--3},
-  year={2023},
-  publisher={Nature Publishing Group UK London}
-}
-
-- Generative Conversational AI And Academic Integrity: A Mixed Method Investigation To Understand The Ethical Use of LLM Chatbots In Higher Education
-  + Using a quantitative and qualitative method approach, this research proposes and tests a model of the ethical usage of chatbots. Analysis of data collected from university students in the US reveals several key findings.
-  + @article{mvondo2023generative,
-  title={Generative Conversational AI And Academic Integrity: A Mixed Method Investigation To Understand The Ethical Use of LLM Chatbots In Higher Education},
-  author={Mvondo, Gustave Florentin Nkoulou and Niu, Ben and Eivazinezhad, Salman},
-  journal={Available at SSRN 4548263},
-  year={2023}
-}
-
-- Large Language Model-based System to Provide Immediate Feedback to Students in Flipped Classroom Preparation Learning
-  + This paper proposes a system that uses large language models to provide immediate feedback to students in flipped classroom preparation learning. This study aimed to solve challenges in the flipped classroom model, such as ensuring that students are emotionally engaged and motivated to learn.
-  + @article{uchiyama2023large,
-  title={Large Language Model-based System to Provide Immediate Feedback to Students in Flipped Classroom Preparation Learning},
-  author={Uchiyama, Shintaro and Umemura, Kyoji and Morita, Yusuke},
-  journal={arXiv preprint arXiv:2307.11388},
+- ChatGPT in the classroom: friend or foe?
+  + This paper analyzes the potential of ChatGPT in the classroom, exploring its applications as a writing assistant, study tool, personal tutor, and more. We aim to shed light on the present capabilities of ChatGPT in higher education and to provide a comprehensive view of its advantages and challenges.
+  + @inproceedings{domenech2023chatgpt,
+  title={ChatGPT in the classroom: friend or foe?},
+  author={Domenech, Josep},
+  booktitle={9th International Conference on Higher Education Advances (HEAd’23). IEEE},
+  volume={10},
   year={2023}
 }
 
@@ -296,13 +277,21 @@ This list contains a collection of papers investigating this topic.
   publisher={ERIC}
 }
 
-- ChatGPT in the classroom: friend or foe?
-  + This paper analyzes the potential of ChatGPT in the classroom, exploring its applications as a writing assistant, study tool, personal tutor, and more. We aim to shed light on the present capabilities of ChatGPT in higher education and to provide a comprehensive view of its advantages and challenges.
-  + @inproceedings{domenech2023chatgpt,
-  title={ChatGPT in the classroom: friend or foe?},
-  author={Domenech, Josep},
-  booktitle={9th International Conference on Higher Education Advances (HEAd’23). IEEE},
-  volume={10},
+- Generative Conversational AI And Academic Integrity: A Mixed Method Investigation To Understand The Ethical Use of LLM Chatbots In Higher Education
+  + Using a quantitative and qualitative method approach, this research proposes and tests a model of the ethical usage of chatbots. Analysis of data collected from university students in the US reveals several key findings.
+  + @article{mvondo2023generative,
+  title={Generative Conversational AI And Academic Integrity: A Mixed Method Investigation To Understand The Ethical Use of LLM Chatbots In Higher Education},
+  author={Mvondo, Gustave Florentin Nkoulou and Niu, Ben and Eivazinezhad, Salman},
+  journal={Available at SSRN 4548263},
+  year={2023}
+}
+
+- Large Language Model-based System to Provide Immediate Feedback to Students in Flipped Classroom Preparation Learning
+  + This paper proposes a system that uses large language models to provide immediate feedback to students in flipped classroom preparation learning. This study aimed to solve challenges in the flipped classroom model, such as ensuring that students are emotionally engaged and motivated to learn.
+  + @article{uchiyama2023large,
+  title={Large Language Model-based System to Provide Immediate Feedback to Students in Flipped Classroom Preparation Learning},
+  author={Uchiyama, Shintaro and Umemura, Kyoji and Morita, Yusuke},
+  journal={arXiv preprint arXiv:2307.11388},
   year={2023}
 }
 
