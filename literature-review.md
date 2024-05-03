@@ -210,6 +210,41 @@ This list contains a collection of papers investigating this topic.
 
 ## Applications of Large Language Models in Education
 
+
+- Exploring the Role of ChatGPT in Education: Applications and Challenges
+  + In this paper, we explore the potential opportunities of ChatGPT in the education sector, as well as its limitations and challenges.
+  + @inproceedings{mosaiyebzadeh2023exploring,
+  title={Exploring the Role of ChatGPT in Education: Applications and Challenges},
+  author={Mosaiyebzadeh, Fatemeh and Pouriyeh, Seyedamin and Parizi, Reza and Dehbozorgi, Nasrin and Dorodchi, Mohsen and Mac{\^e}do Batista, Daniel},
+  booktitle={Proceedings of the 24th Annual Conference on Information Technology Education},
+  pages={84--89},
+  year={2023}
+}
+
+- Large Language Models in Education: Vision and Opportunities
+  + This article aims to investigate and summarize the application of LLMs in smart education. It first introduces the research background and motivation of LLMs and explains the essence of LLMs. It then discusses the relationship between digital education and EduLLMs and summarizes the current research status of educational large models.
+  + @inproceedings{gan2023large,
+  title={Large language models in education: Vision and opportunities},
+  author={Gan, Wensheng and Qi, Zhenlian and Wu, Jiayang and Lin, Jerry Chun-Wei},
+  booktitle={2023 IEEE International Conference on Big Data (BigData)},
+  pages={4776--4785},
+  year={2023},
+  organization={IEEE}
+}
+
+- ChatGPT and large language models in academia: opportunities and challenges
+  +  In this editorial, we discuss this technology from the academic’s perspective with regard to its limitations and utility for academic writing, education, and programming. We end with our stance with regard to using LLMs and chatbots in academia, which is summarized as (1) we must find ways to effectively use them, (2) their use does not constitute plagiarism (although they may produce plagiarized text), (3) we must quantify their bias, (4) users must be cautious of their poor accuracy, and (5) the future is bright for their application to research and as an academic tool.
+  +  @article{meyer2023chatgpt,
+  title={ChatGPT and large language models in academia: opportunities and challenges},
+  author={Meyer, Jesse G and Urbanowicz, Ryan J and Martin, Patrick CN and O’Connor, Karen and Li, Ruowang and Peng, Pei-Chen and Bright, Tiffani J and Tatonetti, Nicholas and Won, Kyoung Jae and Gonzalez-Hernandez, Graciela and others},
+  journal={BioData Mining},
+  volume={16},
+  number={1},
+  pages={20},
+  year={2023},
+  publisher={Springer}
+}
+
 - Large language model (LLM)-driven chatbots for neuro-ophthalmic medical education
   + Utilizing GPT-4 in neuro-ophthalmic medical education 
   + @article{waisberg2023large,
@@ -344,41 +379,6 @@ This list contains a collection of papers investigating this topic.
   booktitle={Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)},
   pages={610--625},
   year={2023}
-}
-
-
-- Exploring the Role of ChatGPT in Education: Applications and Challenges
-  + In this paper, we explore the potential opportunities of ChatGPT in the education sector, as well as its limitations and challenges.
-  + @inproceedings{mosaiyebzadeh2023exploring,
-  title={Exploring the Role of ChatGPT in Education: Applications and Challenges},
-  author={Mosaiyebzadeh, Fatemeh and Pouriyeh, Seyedamin and Parizi, Reza and Dehbozorgi, Nasrin and Dorodchi, Mohsen and Mac{\^e}do Batista, Daniel},
-  booktitle={Proceedings of the 24th Annual Conference on Information Technology Education},
-  pages={84--89},
-  year={2023}
-}
-
-- Large Language Models in Education: Vision and Opportunities
-  + This article aims to investigate and summarize the application of LLMs in smart education. It first introduces the research background and motivation of LLMs and explains the essence of LLMs. It then discusses the relationship between digital education and EduLLMs and summarizes the current research status of educational large models.
-  + @inproceedings{gan2023large,
-  title={Large language models in education: Vision and opportunities},
-  author={Gan, Wensheng and Qi, Zhenlian and Wu, Jiayang and Lin, Jerry Chun-Wei},
-  booktitle={2023 IEEE International Conference on Big Data (BigData)},
-  pages={4776--4785},
-  year={2023},
-  organization={IEEE}
-}
-
-- ChatGPT and large language models in academia: opportunities and challenges
-  +  In this editorial, we discuss this technology from the academic’s perspective with regard to its limitations and utility for academic writing, education, and programming. We end with our stance with regard to using LLMs and chatbots in academia, which is summarized as (1) we must find ways to effectively use them, (2) their use does not constitute plagiarism (although they may produce plagiarized text), (3) we must quantify their bias, (4) users must be cautious of their poor accuracy, and (5) the future is bright for their application to research and as an academic tool.
-  +  @article{meyer2023chatgpt,
-  title={ChatGPT and large language models in academia: opportunities and challenges},
-  author={Meyer, Jesse G and Urbanowicz, Ryan J and Martin, Patrick CN and O’Connor, Karen and Li, Ruowang and Peng, Pei-Chen and Bright, Tiffani J and Tatonetti, Nicholas and Won, Kyoung Jae and Gonzalez-Hernandez, Graciela and others},
-  journal={BioData Mining},
-  volume={16},
-  number={1},
-  pages={20},
-  year={2023},
-  publisher={Springer}
 }
 
 - Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?
