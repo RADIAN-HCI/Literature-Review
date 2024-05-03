@@ -118,7 +118,6 @@ This list contains a collection of papers investigating this topic.
   pages={100020},
   year={2021},
   publisher={Elsevier}
-
 }
 
 - Artificial intelligence in education: Addressing ethical challenges in K-12 settings
@@ -169,7 +168,6 @@ This list contains a collection of papers investigating this topic.
   year={2021},
   publisher={International Association of Online Engineering (IAOE)}
 }
-
 
 - Developing deep learning approaches and personal teaching efficacy within a preservice teacher education context
   + Aims: This paper describes a study in which contextual modifications were implemented in an existing preservice teacher education programme to increase students' use of deep approaches to learning and reduce their reliance on the use of surface approaches, without the need for major redesign. Students' perceptions of their competence in performing the tasks of teaching (personal teaching efficacy) were also expected to improve in response to improvements in quality learning.
