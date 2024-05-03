@@ -59,6 +59,19 @@ This list contains a collection of papers investigating this topic.
   publisher={Ieee}
 }
 
+- A Review of Using Machine Learning Approaches for Precision Education
+  + In recent years, in the field of education, there has been a clear progressive trend toward precision education. As a rapidly evolving AI technique, machine learning is viewed as an important means to realize it. In this paper, we systematically review 40 empirical studies regarding machine-learning-based precision education. The results showed that the majority of studies focused on the prediction of learning performance or dropouts, and were carried out in online or blended learning environments among university students majoring in computer science or STEM, whereas the data sources were divergent.
+  + @article{luan2021review,
+  title={A review of using machine learning approaches for precision education},
+  author={Luan, Hui and Tsai, Chin-Chung},
+  journal={Educational Technology \& Society},
+  volume={24},
+  number={1},
+  pages={250--266},
+  year={2021},
+  publisher={JSTOR}
+}
+
 - Evolution and Revolution in Artificial Intelligence in Education
   + The field of Artificial Intelligence in Education (AIED) has undergone significant developments over the last twenty-five years. As we reflect on our past and shape our future, we ask two main questions: What are our major strengths? And, what new opportunities lay on the horizon? We analyse 47 papers from three years in the history of the Journal of AIED (1994, 2004, and 2014) to identify the foci and typical scenarios that occupy the field of AIED. We use those results to suggest two parallel strands of research that need to take place in order to impact education in the next 25 years: One is an evolutionary process, focusing on current classroom practices, collaborating with teachers, and diversifying technologies and domains. The other is a revolutionary process where we argue for embedding our technologies within students’ everyday lives, supporting their cultures, practices, goals, and communities.
   + @article{roll2016evolution,
@@ -83,17 +96,16 @@ This list contains a collection of papers investigating this topic.
   publisher={Elsevier}
 }
 
-- Application and theory gaps during the rise of Artificial Intelligence in Education
-  + Based on 4,519 publications from 2000 to 2019, we attempt to fill this gap and identify trends and topics related to AI applications in education (AIEd) using topicbased bibliometrics.
-  + @article{chen2022two,
-  title={Two decades of artificial intelligence in education},
-  author={Chen, Xieling and Zou, Di and Xie, Haoran and Cheng, Gary and Liu, Caixia},
-  journal={Educational Technology \& Society},
-  volume={25},
-  number={1},
-  pages={28--47},
+- Explainable Artificial Intelligence in education
+  +  Accordingly, we first present a framework, referred to as XAI-ED, that considers six key aspects in relation to explainability for studying, designing and developing educational AI tools. These key aspects focus on the stakeholders, benefits, approaches for presenting explanations, widely used classes of AI models, human-centred designs of the AI interfaces and potential pitfalls of providing explanations within education. We then present four comprehensive case studies that illustrate the application of XAI-ED in four different educational AI tools. The paper concludes by discussing opportunities, challenges and future research needs for the effective incorporation of XAI in education.
+  +  @article{khosravi2022explainable,
+  title={Explainable artificial intelligence in education},
+  author={Khosravi, Hassan and Shum, Simon Buckingham and Chen, Guanliang and Conati, Cristina and Tsai, Yi-Shan and Kay, Judy and Knight, Simon and Martinez-Maldonado, Roberto and Sadiq, Shazia and Ga{\v{s}}evi{\'c}, Dragan},
+  journal={Computers and Education: Artificial Intelligence},
+  volume={3},
+  pages={100074},
   year={2022},
-  publisher={JSTOR}
+  publisher={Elsevier}
 }
 
 - Artificial Intelligence in Education: Current Insights and Future Perspectives
@@ -119,18 +131,6 @@ This list contains a collection of papers investigating this topic.
   publisher={Elsevier}
 }
 
-- Explainable Artificial Intelligence in education
-  +  Accordingly, we first present a framework, referred to as XAI-ED, that considers six key aspects in relation to explainability for studying, designing and developing educational AI tools. These key aspects focus on the stakeholders, benefits, approaches for presenting explanations, widely used classes of AI models, human-centred designs of the AI interfaces and potential pitfalls of providing explanations within education. We then present four comprehensive case studies that illustrate the application of XAI-ED in four different educational AI tools. The paper concludes by discussing opportunities, challenges and future research needs for the effective incorporation of XAI in education.
-  +  @article{khosravi2022explainable,
-  title={Explainable artificial intelligence in education},
-  author={Khosravi, Hassan and Shum, Simon Buckingham and Chen, Guanliang and Conati, Cristina and Tsai, Yi-Shan and Kay, Judy and Knight, Simon and Martinez-Maldonado, Roberto and Sadiq, Shazia and Ga{\v{s}}evi{\'c}, Dragan},
-  journal={Computers and Education: Artificial Intelligence},
-  volume={3},
-  pages={100074},
-  year={2022},
-  publisher={Elsevier}
-}
-
 - Artificial intelligence in education: Addressing ethical challenges in K-12 settings
   + The ethical challenges of AI in education must be identified and introduced to teachers and students. To address these issues, this paper (1) briefly defines AI through the concepts of machine learning and algorithms; (2) introduces applications of AI in educational settings and benefits of AI systems to support students’ learning processes; (3) describes ethical challenges and dilemmas of using AI in education; and (4) addresses the teaching and understanding of AI by providing recommended instructional resources from two providers—i.e., the Massachusetts Institute of Technology’s (MIT) Media Lab and Code.org.
   + @article{akgun2022artificial,
@@ -142,31 +142,6 @@ This list contains a collection of papers investigating this topic.
   pages={431--440},
   year={2022},
   publisher={Springer}
-}
-
-- Challenges and Future Directions of Big Data and Artificial Intelligence in Education
-  + We discuss the new challenges and directions facing the use of big data and artificial intelligence (AI) in education research, policy-making, and industry. In recent years, applications of big data and AI in education have made significant headways.
-  + @article{luan2020challenges,
-  title={Challenges and future directions of big data and artificial intelligence in education},
-  author={Luan, Hui and Geczy, Peter and Lai, Hollis and Gobert, Janice and Yang, Stephen JH and Ogata, Hiroaki and Baltes, Jacky and Guerra, Rodrigo and Li, Ping and Tsai, Chin-Chung},
-  journal={Frontiers in psychology},
-  volume={11},
-  pages={580820},
-  year={2020},
-  publisher={Frontiers Media SA}
-}
-
-- A Review of Using Machine Learning Approaches for Precision Education
-  + In recent years, in the field of education, there has been a clear progressive trend toward precision education. As a rapidly evolving AI technique, machine learning is viewed as an important means to realize it. In this paper, we systematically review 40 empirical studies regarding machine-learning-based precision education. The results showed that the majority of studies focused on the prediction of learning performance or dropouts, and were carried out in online or blended learning environments among university students majoring in computer science or STEM, whereas the data sources were divergent.
-  + @article{luan2021review,
-  title={A review of using machine learning approaches for precision education},
-  author={Luan, Hui and Tsai, Chin-Chung},
-  journal={Educational Technology \& Society},
-  volume={24},
-  number={1},
-  pages={250--266},
-  year={2021},
-  publisher={JSTOR}
 }
 
 - Application of Machine Learning algorithms for betterment in education system
