@@ -295,6 +295,20 @@ This list contains a collection of papers investigating this topic.
   year={2023}
 }
 
+
+- The use of ChatGPT as a learning tool to improve foreign language writing in a multilingual and multicultural classroom
+  +  In this context, the study aimed to examine the effectiveness of ChatGPT as a feedback tool on foreign language writing, especially for socially vulnerable populations, such as refugees/migrants, who face extra language difficulties. The study was conducted in a Junior High School (Gymnasium) classroom in an urban city in south Greece, which consisted of 8 students with a migrant/refugee background aged 15 years old who were attending German as a foreign language learning.
+  +  @article{athanassopoulos2023use,
+  title={The use of ChatGPT as a learning tool to improve foreign language writing in a multilingual and multicultural classroom},
+  author={Athanassopoulos, Stavros and Manoli, Polyxeni and Gouvi, Maria and Lavidas, Konstantinos and Komis, Vassilis},
+  journal={Advances in Mobile Learning Educational Research},
+  volume={3},
+  number={2},
+  pages={818--824},
+  year={2023}
+
+}
+
 - Generative AI and ChatGPT in School Children’s Education: Evidence from a School Lesson
   + The study involved 110 pupils, aged 8–14 years old, studying in the 4th–6th grades across four classes in two schools. Using laptops, pupils participated in test lessons where content, text, figures, and exercises were generated and modified using generative AI, specifically ChatGPT-3.5. The results demonstrated that it was possible to use ChatGPT-3.5, as one example of generative AI, to personify learning material so that it would meet the knowledge and learning skills of pupils with different levels of knowledge. A clear majority of pupils enjoyed learning the generative AI-modified material.
   + @article{jauhiainen2023generative,
@@ -308,33 +322,26 @@ This list contains a collection of papers investigating this topic.
   publisher={MDPI}
 }
 
-
-- Can Chat GPT Replace the Role of the Teacher in the Classroom: A Fundamental Analysis
-  +  This study will conduct an in-depth analysis of ChatGPT's ability to replace the role of teachers in the classroom learning process. This research is qualitative in nature. The methodology used to collect data includes attentive listening and careful documentation of relevant information, which is then subjected to analytical procedures such as data reduction, data display, and conclusion drawing. The study arrived at the conclusion that in the context of using ChatGPT in learning, it should be noted that technology can only be a tool and cannot replace the role of the teacher entirely.
-  +  @article{ausat2023can,
-  title={Can chat GPT replace the role of the teacher in the classroom: A fundamental analysis},
-  author={Ausat, Abu Muna Almaududi and Massang, Berdinata and Efendi, Mukhtar and Nofirman, Nofirman and Riady, Yasir},
-  journal={Journal on Education},
-  volume={5},
-  number={4},
-  pages={16100--16106},
+- ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children’s Information Discovery
+  + The influence of ChatGPT and similar models on education is being increasingly discussed. With the current level of enthusiasm among users, ChatGPT is envisioned as having great potential. As generative models are unpredictable in terms of producing biased, harmful, and unsafe content, we argue that they should be comprehensively tested for more vulnerable groups, such as children, to understand what role they can play and what training and supervision are necessary. Here, we present the results of a preliminary exploration aiming to understand whether ChatGPT can adapt to support children in completing information discovery tasks in the education context. We analyze ChatGPT responses to search prompts related to the 4th grade classroom curriculum using a variety of lenses (e.g., readability and language) to identify open challenges and limitations that must be addressed by interdisciplinary communities.
+  + @inproceedings{murgia2023chatgpt,
+  title={ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children’s Information Discovery},
+  author={Murgia, Emiliana and Abbasiantaeb, Zahra and Aliannejadi, Mohammad and Huibers, Theo and Landoni, Monica and Pera, Maria Soledad},
+  booktitle={Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization},
+  pages={22--27},
   year={2023}
 }
 
 
-- Teaching with ChatGPT: Critiquing Generative Artificial Intelligence from the Classroom
-  + Nothing
-  + @article{messeri2023teaching,
-  title={Teaching with ChatGPT: Critiquing Generative Artificial Intelligence from the Classroom},
-  author={Messeri, Lisa},
-  journal={Anthropology Now},
-  volume={15},
-  number={1},
-  pages={84--92},
-  year={2023},
-  publisher={Taylor \& Francis}
+- Evaluating Reading Comprehension Exercises Generated by LLMs: A Showcase of ChatGPT in Education Applications
+  + In this study, we implement a reading comprehension exercise generation system that provides high-quality and personalized reading materials for middle school English learners in China.
+  + @inproceedings{xiao2023evaluating,
+  title={Evaluating reading comprehension exercises generated by LLMs: A showcase of ChatGPT in education applications},
+  author={Xiao, Changrong and Xu, Sean Xin and Zhang, Kunpeng and Wang, Yufang and Xia, Lei},
+  booktitle={Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)},
+  pages={610--625},
+  year={2023}
 }
-
 
 - ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children’s Information Discovery
   + The influence of ChatGPT and similar models on education is being increasingly discussed. With the current level of enthusiasm among users, ChatGPT is envisioned as having great potential. As generative models are unpredictable in terms of producing biased, harmful, and unsafe content, we argue that they should be comprehensively tested for more vulnerable groups, such as children, to understand what role they can play and what training and supervision are necessary. Here, we present the results of a preliminary exploration aiming to understand whether ChatGPT can adapt to support children in completing information discovery tasks in the education context. We analyze ChatGPT responses to search prompts related to the 4th grade classroom curriculum using a variety of lenses (e.g., readability and language) to identify open challenges and limitations that must be addressed by interdisciplinary communities.
@@ -370,25 +377,32 @@ This list contains a collection of papers investigating this topic.
   year={2023}
 }
 
-- Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?
-  + This paper aims to determine the most suitable large language model (LLM) among ChatGPT, BingChat, and Bard for Vietnamese educators and students. The results show that ChatGPT and BingChat exhibit similar performances and outperform Bard in mathematics.
-  + @article{dao2023large,
-  title={Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?},
-  author={Dao, Xuan-Quy},
-  journal={Bing Chat, or Bard},
+- Can Chat GPT Replace the Role of the Teacher in the Classroom: A Fundamental Analysis
+  +  This study will conduct an in-depth analysis of ChatGPT's ability to replace the role of teachers in the classroom learning process. This research is qualitative in nature. The methodology used to collect data includes attentive listening and careful documentation of relevant information, which is then subjected to analytical procedures such as data reduction, data display, and conclusion drawing. The study arrived at the conclusion that in the context of using ChatGPT in learning, it should be noted that technology can only be a tool and cannot replace the role of the teacher entirely.
+  +  @article{ausat2023can,
+  title={Can chat GPT replace the role of the teacher in the classroom: A fundamental analysis},
+  author={Ausat, Abu Muna Almaududi and Massang, Berdinata and Efendi, Mukhtar and Nofirman, Nofirman and Riady, Yasir},
+  journal={Journal on Education},
+  volume={5},
+  number={4},
+  pages={16100--16106},
   year={2023}
 }
 
-- LARGE LANGUAGE MODEL-BASED ARTIFICIAL INTELLIGENCE IN THE LANGUAGE CLASSROOM: PRACTICAL IDEAS FOR TEACHING.
-  + The aim of this paper is to provide the reader with examples of how LLMs can be utilized for materials development, classroom activities, and providing feedback. After giving specific examples and explanations, the paper will conclude with a discussion of how this technology can provide teachers with new innovative ways to streamline the teaching process to focus on learner needs.
-  + @article{bonner2023large,
-  title={LARGE LANGUAGE MODEL-BASED ARTIFICIAL INTELLIGENCE IN THE LANGUAGE CLASSROOM: PRACTICAL IDEAS FOR TEACHING.},
-  author={Bonner, Euan and Lege, Ryan and Frazier, Erin},
-  journal={Teaching English with Technology},
-  volume={23},
+
+- Teaching with ChatGPT: Critiquing Generative Artificial Intelligence from the Classroom
+  + Nothing
+  + @article{messeri2023teaching,
+  title={Teaching with ChatGPT: Critiquing Generative Artificial Intelligence from the Classroom},
+  author={Messeri, Lisa},
+  journal={Anthropology Now},
+  volume={15},
   number={1},
-  year={2023}
+  pages={84--92},
+  year={2023},
+  publisher={Taylor \& Francis}
 }
+
 
 - A large language model-assisted education tool to provide feedback on open-ended responses
   + Here, we present a tool that uses large language models (LLMs), guided by instructor-defined criteria, to automate responses to open-ended questions. Our tool delivers rapid personalized feedback, enabling students to quickly test their knowledge and identify areas for improvement.
@@ -396,6 +410,15 @@ This list contains a collection of papers investigating this topic.
   title={A large language model-assisted education tool to provide feedback on open-ended responses},
   author={Matelsky, Jordan K and Parodi, Felipe and Liu, Tony and Lange, Richard D and Kording, Konrad P},
   journal={arXiv preprint arXiv:2308.02439},
+  year={2023}
+}
+
+- Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?
+  + This paper aims to determine the most suitable large language model (LLM) among ChatGPT, BingChat, and Bard for Vietnamese educators and students. The results show that ChatGPT and BingChat exhibit similar performances and outperform Bard in mathematics.
+  + @article{dao2023large,
+  title={Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?},
+  author={Dao, Xuan-Quy},
+  journal={Bing Chat, or Bard},
   year={2023}
 }
 
