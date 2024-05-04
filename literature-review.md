@@ -404,15 +404,6 @@ This list contains a collection of papers investigating this topic.
 }
 
 
-- A large language model-assisted education tool to provide feedback on open-ended responses
-  + Here, we present a tool that uses large language models (LLMs), guided by instructor-defined criteria, to automate responses to open-ended questions. Our tool delivers rapid personalized feedback, enabling students to quickly test their knowledge and identify areas for improvement.
-  + @article{matelsky2023large,
-  title={A large language model-assisted education tool to provide feedback on open-ended responses},
-  author={Matelsky, Jordan K and Parodi, Felipe and Liu, Tony and Lange, Richard D and Kording, Konrad P},
-  journal={arXiv preprint arXiv:2308.02439},
-  year={2023}
-}
-
 - Which Large Language Model should You Use in Vietnamese Education: ChatGPT, Bing Chat, or Bard?
   + This paper aims to determine the most suitable large language model (LLM) among ChatGPT, BingChat, and Bard for Vietnamese educators and students. The results show that ChatGPT and BingChat exhibit similar performances and outperform Bard in mathematics.
   + @article{dao2023large,
