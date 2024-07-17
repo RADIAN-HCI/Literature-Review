@@ -10,7 +10,7 @@ This list contains a collection of papers investigating this topic.
 - [Modern Assessment Methods](#Modern-Assessment-Methods)
 - [Applications of Artificial Intelligence in Education](#Applications-of-Artificial-Intelligence-in-Education)
 - [Applications of Large Language Models in Education](#Applications-of-Large-Language-Models-in-Education)
-- [Blockchain: Applications and Benefits](#Blockchain-Applications-and-Benefits)
+- [Brainstorming and Collaboration in Educational Setting](#Brainstorming-and-Collaboration-in-Educational-Setting)
 - [Blockchain in Education](#Blockchain-in-Education)
 
 
@@ -414,6 +414,160 @@ This list contains a collection of papers investigating this topic.
 }
 
 
-## Blockchain: Applications and Benefits
+## Brainstorming and Collaboration in Educational Setting
+
+- Collaboration in Education: The Phenomenon and Process of Working Together
+  + In this article we propose a model for collaboration in education. We begin by examining the roots of collaboration in consultation, collegiality, and cooperation. We then delineate the features of collaboration as phenomenon and process, offering the view that through talk, action, and reflection among individuals a community of learners emerges. Finally, we suggest that collaboration can create a space that enables us to challenge taken-for-granted ways of working together and to bring about transformation in educational practice.
+  + @article{goulet2003collaboration,
+  title={Collaboration in education: The phenomenon and process of working together},
+  author={Goulet, Linda and Krentz, Caroline and Christiansen, Helen},
+  journal={Alberta journal of educational research},
+  volume={49},
+  number={4},
+  year={2003}
+}
+
+- Collaboration as a strategy for promoting equity in education: possibilities and barriers
+  + This paper draws on the findings of a program of research, which, over many years, has explored ways of promoting greater equity in schools and education systems. Using examples from the field, the paper provides an explanation of what this involves. In so doing it identifies potential barriers that have to be addressed and suggestions as to how these might be overcome
+  + @article{ainscow2016collaboration,
+  title={Collaboration as a strategy for promoting equity in education: possibilities and barriers},
+  author={Ainscow, Mel},
+  journal={Journal of Professional capital and community},
+  volume={1},
+  number={2},
+  year={2016},
+  publisher={Emerald Group Publishing Limited}
+}
+
+- A review of brainstorming techniques in higher education
+  + A review of previous studies on some BS types such as the traditional brainstorming (TBS), nominal brainstorming (NBS), and electronic brainstorming (EBS) was conducted.
+  + @article{al2018review,
+  title={A review of brainstorming techniques in higher education},
+  author={Al-Samarraie, Hosam and Hurmuzan, Shuhaila},
+  journal={Thinking Skills and creativity},
+  volume={27},
+  pages={78--91},
+  year={2018},
+  publisher={Elsevier}
+}
+
+- strategies for teaching brainstorming IN DESIGN EDUCATION
+  + This article provides the readers with an example of brainstorming tech- niques that have been implemented in industry and also reflect the practices used by Purdue Uni- versity, College of Technology freshmen students while working through a design problem.
+  + @article{mentzer2015strategies,
+  title={Strategies for teaching brainstorming in design education},
+  author={Mentzer, Nathan and Farrington, Shawn and Tennenhouse, Jason},
+  journal={Technology and Engineering Teacher},
+  volume={74},
+  number={8},
+  pages={8},
+  year={2015},
+  publisher={International Technology Education Association}
+}
+
+- Increasing High School Students’ Interest in STEM Education Through Collaborative Brainstorming with Yo-Yos
+  + This paper describes an innovative approach called “brainstorming with yo-yos,” which was implemented in an outreach to high school event to increase high school students’ interest in learning physics and consequently pursuing postsecondary STEM education.
+  + @article{fang2013increasing,
+  title={Increasing high school students’ interest in STEM education through collaborative brainstorming with Yo-Yos},
+  author={Fang, Ning},
+  journal={Journal of STEM Education: Innovations and Research},
+  volume={14},
+  number={4},
+  year={2013}
+}
+
+- Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis
+  + Therefore, this research synthesis tried to recombine and reinterpret the results of some qualitative studies on the impacts of brainstorming technique on learners’ achievement.
+  + @article{dogan2021revisiting,
+  title={Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis},
+  author={Dogan, Yunus and Batdi, Veli},
+  year={2021},
+  publisher={COL}
+}
+
+- The Effect of the Using the Brainstorming Method on the Academic Achievement of Students in Grade Five in Tehran Elementary Schools
+  + The present study aimed at examining the effect brainstorming teaching method on the educational achievement of grade-five students in the schools of district 7 of the city of Tehran, Iran in the educational year 2010–2011.
+  + @article{rizi2013effect,
+  title={The effect of the using the brainstorming method on the academic achievement of students in grade five in Tehran elementary schools},
+  author={Rizi, Cobra Emami and Najafipour, Mojtaba and Dehghan, Shahla and others},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={83},
+  pages={230--233},
+  year={2013},
+  publisher={Elsevier}
+}
+
+- Brainstorming Strategies in Integrating Education System for Better Technology-Based Support Learning
+  + As per the learners need, technology-based learning can play different delivery methods and is classified into two types synchronous delivery methods and asynchronous delivery methods. In today’s trend, there is a rapid change in education, technology and tools which require training programs  to become knowledgeable workers in industry.
+  + @article{vivek2022brainstorming,
+  title={Brainstorming Strategies in Integrating Education System for Better Technology-Based Support Learning},
+  author={Vivek, V and Mahesh, TR and Madhuri, G Sindhu},
+  journal={International Proceeding On Religion, Culture, Law, Education, And Hindu Studies},
+  pages={46--53},
+  year={2022}
+}
+
+- Principles of Collaborative Education Research With Stakeholders: Toward Requirements for a New Research and Development Infrastructure
+  + In this article, we review four collaborative approaches: Community-based Design Research, Design-based Implementation Research, Improvement Science in Networked Improvement Communities, and the Strategic Education Research Partnership.
+  + @article{penuel2020principles,
+  title={Principles of collaborative education research with stakeholders: Toward requirements for a new research and development infrastructure},
+  author={Penuel, William R and Riedy, Robbin and Barber, Michael S and Peurach, Donald J and LeBouef, Whitney A and Clark, Tiffany},
+  journal={Review of Educational Research},
+  volume={90},
+  number={5},
+  pages={627--674},
+  year={2020},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+- The evaluation of a successful collaborative education model to expand student clinical placements
+  + The aim of this study was to develop and evaluate a collaborative model of clinical education that would increase the capacity of a health care agency to accommodate student placements and improve workplace readiness.
+  + @article{barnett2010evaluation,
+  title={The evaluation of a successful collaborative education model to expand student clinical placements},
+  author={Barnett, Tony and Cross, Merylin and Shahwan-Akl, Lina and Jacob, Elisabeth},
+  journal={Nurse Education in Practice},
+  volume={10},
+  number={1},
+  pages={17--21},
+  year={2010},
+  publisher={Elsevier}
+}
+
+- Collaboration in students’ learning: the student experience
+  + @article{gratton2019collaboration,
+  title={Collaboration in students’ learning: The student experience},
+  author={Gratton, Rob},
+  journal={Support for Learning},
+  volume={34},
+  number={3},
+  pages={254--276},
+  year={2019},
+  publisher={Wiley Online Library}
+}
+
+
+- Benefits of collaborative learning
+  + @article{laal2012benefits,
+  title={Benefits of collaborative learning},
+  author={Laal, Marjan and Ghodsi, Seyed Mohammad},
+  journal={Procedia-social and behavioral sciences},
+  volume={31},
+  pages={486--490},
+  year={2012},
+  publisher={Elsevier}
+}
+
+
+- Collaboration Between Team Members in Inclusive Educational Settings
+  + @article{nochajski2002collaboration,
+  title={Collaboration between team members in inclusive educational settings},
+  author={Nochajski, Susan M},
+  journal={Occupational Therapy in Health Care},
+  volume={15},
+  number={3-4},
+  pages={101--112},
+  year={2002},
+  publisher={Taylor \& Francis}
+}
+
 
 ## Blockchain in Education
