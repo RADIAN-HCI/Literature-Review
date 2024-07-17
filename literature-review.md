@@ -500,6 +500,15 @@ This list contains a collection of papers investigating this topic.
   publisher={Elsevier}
 }
 
+- Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis
+  + Therefore, this research synthesis tried to recombine and reinterpret the results of some qualitative studies on the impacts of brainstorming technique on learners’ achievement.
+  + @article{dogan2021revisiting,
+  title={Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis},
+  author={Dogan, Yunus and Batdi, Veli},
+  year={2021},
+  publisher={COL}
+}
+
 - strategies for teaching brainstorming IN DESIGN EDUCATION
   + This article provides the readers with an example of brainstorming tech- niques that have been implemented in industry and also reflect the practices used by Purdue Uni- versity, College of Technology freshmen students while working through a design problem.
   + @article{mentzer2015strategies,
@@ -522,15 +531,6 @@ This list contains a collection of papers investigating this topic.
   volume={14},
   number={4},
   year={2013}
-}
-
-- Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis
-  + Therefore, this research synthesis tried to recombine and reinterpret the results of some qualitative studies on the impacts of brainstorming technique on learners’ achievement.
-  + @article{dogan2021revisiting,
-  title={Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis},
-  author={Dogan, Yunus and Batdi, Veli},
-  year={2021},
-  publisher={COL}
 }
 
 - The Effect of Using the Brainstorming Method on the Academic Achievement of Students in Grade Five in Tehran Elementary Schools
