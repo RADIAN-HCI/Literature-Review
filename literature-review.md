@@ -427,6 +427,18 @@ This list contains a collection of papers investigating this topic.
   year={2003}
 }
 
+- Collaboration Between Team Members in Inclusive Educational Settings
+  + @article{nochajski2002collaboration,
+  title={Collaboration between team members in inclusive educational settings},
+  author={Nochajski, Susan M},
+  journal={Occupational Therapy in Health Care},
+  volume={15},
+  number={3-4},
+  pages={101--112},
+  year={2002},
+  publisher={Taylor \& Francis}
+}
+
 - Collaboration as a strategy for promoting equity in education: possibilities and barriers
   + This paper draws on the findings of a program of research, which, over many years, has explored ways of promoting greater equity in schools and education systems. Using examples from the field, the paper provides an explanation of what this involves. In so doing it identifies potential barriers that have to be addressed and suggestions as to how these might be overcome
   + @article{ainscow2016collaboration,
@@ -436,23 +448,7 @@ This list contains a collection of papers investigating this topic.
   volume={1},
   number={2},
   year={2016},
-  publisher={Emerald Group Publishing Limited}
-
-}
-
-
-- Principles of Collaborative Education Research With Stakeholders: Toward Requirements for a New Research and Development Infrastructure
-  + In this article, we review four collaborative approaches: Community-based Design Research, Design-based Implementation Research, Improvement Science in Networked Improvement Communities, and the Strategic Education Research Partnership.
-  + @article{penuel2020principles,
-  title={Principles of collaborative education research with stakeholders: Toward requirements for a new research and development infrastructure},
-  author={Penuel, William R and Riedy, Robbin and Barber, Michael S and Peurach, Donald J and LeBouef, Whitney A and Clark, Tiffany},
-  journal={Review of Educational Research},
-  volume={90},
-  number={5},
-  pages={627--674},
-  year={2020},
-  publisher={SAGE Publications Sage CA: Los Angeles, CA}
-}
+  publisher={Emerald Group Publishing Limited}}
 
 - The evaluation of a successful collaborative education model to expand student clinical placements
   + The aim of this study was to develop and evaluate a collaborative model of clinical education that would increase the capacity of a health care agency to accommodate student placements and improve workplace readiness.
@@ -489,19 +485,6 @@ This list contains a collection of papers investigating this topic.
   pages={486--490},
   year={2012},
   publisher={Elsevier}
-}
-
-
-- Collaboration Between Team Members in Inclusive Educational Settings
-  + @article{nochajski2002collaboration,
-  title={Collaboration between team members in inclusive educational settings},
-  author={Nochajski, Susan M},
-  journal={Occupational Therapy in Health Care},
-  volume={15},
-  number={3-4},
-  pages={101--112},
-  year={2002},
-  publisher={Taylor \& Francis}
 }
 
 
