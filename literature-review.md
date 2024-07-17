@@ -450,16 +450,16 @@ This list contains a collection of papers investigating this topic.
   year={2016},
   publisher={Emerald Group Publishing Limited}}
 
-- The evaluation of a successful collaborative education model to expand student clinical placements
-  + The aim of this study was to develop and evaluate a collaborative model of clinical education that would increase the capacity of a health care agency to accommodate student placements and improve workplace readiness.
-  + @article{barnett2010evaluation,
-  title={The evaluation of a successful collaborative education model to expand student clinical placements},
-  author={Barnett, Tony and Cross, Merylin and Shahwan-Akl, Lina and Jacob, Elisabeth},
-  journal={Nurse Education in Practice},
-  volume={10},
-  number={1},
-  pages={17--21},
-  year={2010},
+- Using online collaboration applications for group assignments: The interplay between design and human characteristics
+  + This study provides empirical support for online collaboration application effectiveness in education which will augur well for future adoption, use and evolution.
+  + @article{koh2012using,
+  title={Using online collaboration applications for group assignments: The interplay between design and human characteristics},
+  author={Koh, Elizabeth and Lim, John},
+  journal={Computers \& Education},
+  volume={59},
+  number={2},
+  pages={481--496},
+  year={2012},
   publisher={Elsevier}
 }
 
