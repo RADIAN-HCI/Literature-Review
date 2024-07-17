@@ -509,19 +509,6 @@ This list contains a collection of papers investigating this topic.
   publisher={COL}
 }
 
-- strategies for teaching brainstorming IN DESIGN EDUCATION
-  + This article provides the readers with an example of brainstorming tech- niques that have been implemented in industry and also reflect the practices used by Purdue Uni- versity, College of Technology freshmen students while working through a design problem.
-  + @article{mentzer2015strategies,
-  title={Strategies for teaching brainstorming in design education},
-  author={Mentzer, Nathan and Farrington, Shawn and Tennenhouse, Jason},
-  journal={Technology and Engineering Teacher},
-  volume={74},
-  number={8},
-  pages={8},
-  year={2015},
-  publisher={International Technology Education Association}
-}
-
 - Increasing High School Students’ Interest in STEM Education Through Collaborative Brainstorming with Yo-Yos
   + This paper describes an innovative approach called “brainstorming with yo-yos,” which was implemented in an outreach to high school event to increase high school students’ interest in learning physics and consequently pursuing postsecondary STEM education.
   + @article{fang2013increasing,
@@ -553,6 +540,19 @@ This list contains a collection of papers investigating this topic.
   journal={International Proceeding On Religion, Culture, Law, Education, And Hindu Studies},
   pages={46--53},
   year={2022}
+}
+
+- strategies for teaching brainstorming IN DESIGN EDUCATION
+  + This article provides the readers with an example of brainstorming tech- niques that have been implemented in industry and also reflect the practices used by Purdue Uni- versity, College of Technology freshmen students while working through a design problem.
+  + @article{mentzer2015strategies,
+  title={Strategies for teaching brainstorming in design education},
+  author={Mentzer, Nathan and Farrington, Shawn and Tennenhouse, Jason},
+  journal={Technology and Engineering Teacher},
+  volume={74},
+  number={8},
+  pages={8},
+  year={2015},
+  publisher={International Technology Education Association}
 }
 
 ## Blockchain in Education
