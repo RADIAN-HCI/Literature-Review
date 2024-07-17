@@ -437,74 +437,9 @@ This list contains a collection of papers investigating this topic.
   number={2},
   year={2016},
   publisher={Emerald Group Publishing Limited}
+
 }
 
-- A review of brainstorming techniques in higher education
-  + A review of previous studies on some BS types such as the traditional brainstorming (TBS), nominal brainstorming (NBS), and electronic brainstorming (EBS) was conducted.
-  + @article{al2018review,
-  title={A review of brainstorming techniques in higher education},
-  author={Al-Samarraie, Hosam and Hurmuzan, Shuhaila},
-  journal={Thinking Skills and creativity},
-  volume={27},
-  pages={78--91},
-  year={2018},
-  publisher={Elsevier}
-}
-
-- strategies for teaching brainstorming IN DESIGN EDUCATION
-  + This article provides the readers with an example of brainstorming tech- niques that have been implemented in industry and also reflect the practices used by Purdue Uni- versity, College of Technology freshmen students while working through a design problem.
-  + @article{mentzer2015strategies,
-  title={Strategies for teaching brainstorming in design education},
-  author={Mentzer, Nathan and Farrington, Shawn and Tennenhouse, Jason},
-  journal={Technology and Engineering Teacher},
-  volume={74},
-  number={8},
-  pages={8},
-  year={2015},
-  publisher={International Technology Education Association}
-}
-
-- Increasing High School Students’ Interest in STEM Education Through Collaborative Brainstorming with Yo-Yos
-  + This paper describes an innovative approach called “brainstorming with yo-yos,” which was implemented in an outreach to high school event to increase high school students’ interest in learning physics and consequently pursuing postsecondary STEM education.
-  + @article{fang2013increasing,
-  title={Increasing high school students’ interest in STEM education through collaborative brainstorming with Yo-Yos},
-  author={Fang, Ning},
-  journal={Journal of STEM Education: Innovations and Research},
-  volume={14},
-  number={4},
-  year={2013}
-}
-
-- Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis
-  + Therefore, this research synthesis tried to recombine and reinterpret the results of some qualitative studies on the impacts of brainstorming technique on learners’ achievement.
-  + @article{dogan2021revisiting,
-  title={Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis},
-  author={Dogan, Yunus and Batdi, Veli},
-  year={2021},
-  publisher={COL}
-}
-
-- The Effect of the Using the Brainstorming Method on the Academic Achievement of Students in Grade Five in Tehran Elementary Schools
-  + The present study aimed at examining the effect brainstorming teaching method on the educational achievement of grade-five students in the schools of district 7 of the city of Tehran, Iran in the educational year 2010–2011.
-  + @article{rizi2013effect,
-  title={The effect of the using the brainstorming method on the academic achievement of students in grade five in Tehran elementary schools},
-  author={Rizi, Cobra Emami and Najafipour, Mojtaba and Dehghan, Shahla and others},
-  journal={Procedia-Social and Behavioral Sciences},
-  volume={83},
-  pages={230--233},
-  year={2013},
-  publisher={Elsevier}
-}
-
-- Brainstorming Strategies in Integrating Education System for Better Technology-Based Support Learning
-  + As per the learners need, technology-based learning can play different delivery methods and is classified into two types synchronous delivery methods and asynchronous delivery methods. In today’s trend, there is a rapid change in education, technology and tools which require training programs  to become knowledgeable workers in industry.
-  + @article{vivek2022brainstorming,
-  title={Brainstorming Strategies in Integrating Education System for Better Technology-Based Support Learning},
-  author={Vivek, V and Mahesh, TR and Madhuri, G Sindhu},
-  journal={International Proceeding On Religion, Culture, Law, Education, And Hindu Studies},
-  pages={46--53},
-  year={2022}
-}
 
 - Principles of Collaborative Education Research With Stakeholders: Toward Requirements for a New Research and Development Infrastructure
   + In this article, we review four collaborative approaches: Community-based Design Research, Design-based Implementation Research, Improvement Science in Networked Improvement Communities, and the Strategic Education Research Partnership.
@@ -569,5 +504,72 @@ This list contains a collection of papers investigating this topic.
   publisher={Taylor \& Francis}
 }
 
+
+- A review of brainstorming techniques in higher education
+  + A review of previous studies on some BS types such as the traditional brainstorming (TBS), nominal brainstorming (NBS), and electronic brainstorming (EBS) was conducted.
+  + @article{al2018review,
+  title={A review of brainstorming techniques in higher education},
+  author={Al-Samarraie, Hosam and Hurmuzan, Shuhaila},
+  journal={Thinking Skills and creativity},
+  volume={27},
+  pages={78--91},
+  year={2018},
+  publisher={Elsevier}
+}
+
+- strategies for teaching brainstorming IN DESIGN EDUCATION
+  + This article provides the readers with an example of brainstorming tech- niques that have been implemented in industry and also reflect the practices used by Purdue Uni- versity, College of Technology freshmen students while working through a design problem.
+  + @article{mentzer2015strategies,
+  title={Strategies for teaching brainstorming in design education},
+  author={Mentzer, Nathan and Farrington, Shawn and Tennenhouse, Jason},
+  journal={Technology and Engineering Teacher},
+  volume={74},
+  number={8},
+  pages={8},
+  year={2015},
+  publisher={International Technology Education Association}
+}
+
+- Increasing High School Students’ Interest in STEM Education Through Collaborative Brainstorming with Yo-Yos
+  + This paper describes an innovative approach called “brainstorming with yo-yos,” which was implemented in an outreach to high school event to increase high school students’ interest in learning physics and consequently pursuing postsecondary STEM education.
+  + @article{fang2013increasing,
+  title={Increasing high school students’ interest in STEM education through collaborative brainstorming with Yo-Yos},
+  author={Fang, Ning},
+  journal={Journal of STEM Education: Innovations and Research},
+  volume={14},
+  number={4},
+  year={2013}
+}
+
+- Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis
+  + Therefore, this research synthesis tried to recombine and reinterpret the results of some qualitative studies on the impacts of brainstorming technique on learners’ achievement.
+  + @article{dogan2021revisiting,
+  title={Revisiting Brainstorming Within an Educational Context: A Meta-Thematic Analysis},
+  author={Dogan, Yunus and Batdi, Veli},
+  year={2021},
+  publisher={COL}
+}
+
+- The Effect of Using the Brainstorming Method on the Academic Achievement of Students in Grade Five in Tehran Elementary Schools
+  + The present study aimed at examining the effect brainstorming teaching method on the educational achievement of grade-five students in the schools of district 7 of the city of Tehran, Iran in the educational year 2010–2011.
+  + @article{rizi2013effect,
+  title={The effect of the using the brainstorming method on the academic achievement of students in grade five in Tehran elementary schools},
+  author={Rizi, Cobra Emami and Najafipour, Mojtaba and Dehghan, Shahla and others},
+  journal={Procedia-Social and Behavioral Sciences},
+  volume={83},
+  pages={230--233},
+  year={2013},
+  publisher={Elsevier}
+}
+
+- Brainstorming Strategies in Integrating Education System for Better Technology-Based Support Learning
+  + As per the learners need, technology-based learning can play different delivery methods and is classified into two types synchronous delivery methods and asynchronous delivery methods. In today’s trend, there is a rapid change in education, technology and tools which require training programs  to become knowledgeable workers in industry.
+  + @article{vivek2022brainstorming,
+  title={Brainstorming Strategies in Integrating Education System for Better Technology-Based Support Learning},
+  author={Vivek, V and Mahesh, TR and Madhuri, G Sindhu},
+  journal={International Proceeding On Religion, Culture, Law, Education, And Hindu Studies},
+  pages={46--53},
+  year={2022}
+}
 
 ## Blockchain in Education
